@@ -1,5 +1,5 @@
 
-#Proyecto final Propedéutico Mestría en Ciencia de Datos ITAM - verano 2021
+# Proyecto final Propedéutico Mestría en Ciencia de Datos ITAM - verano 2021
 
 ## Objetivo
 
