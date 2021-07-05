@@ -3,7 +3,7 @@
 
 ## Objetivo
 
-Mostrar las capacidades desarrolladas y uso de erramientas que se aprendió en el curso.
+Mostrar las capacidades desarrolladas y uso de herramientas que se aprendió en el curso.
 
 
 ## Descripción:
